@@ -11,7 +11,7 @@
 
   <br />
 
-  [Live Demo](https://auditsurls.vercel.app/) · [Report Issue](https://github.com/ManjeetPal17/auditsurl/issues) · [Digital Heroes](https://digitalheroesco.com)
+  [Live Demo](https://auditsurls.vercel.app/) · [Digital Heroes](https://digitalheroesco.com)
 
 </div>
 
